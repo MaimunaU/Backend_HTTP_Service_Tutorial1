@@ -1,5 +1,4 @@
-//Install express
-//npm init --> npm install express
+//Install express: npm install express
 
 const express = require('express');
 const app = express();
